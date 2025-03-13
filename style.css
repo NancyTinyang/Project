@@ -1,0 +1,27 @@
+#p-img{ height: 480px;
+  
+}
+#img-pic{
+  height: 100%;
+  filter: brightness(0.3);
+  object-fit: cover;
+  
+}
+#p-text{
+  font-size: 15px;
+ color: lightgoldenrodyellow
+  
+}
+#slide1{
+  margin-top: 140px;
+}
+#icon-con{
+  height: 100px;
+}
+#slide2{
+  margin-top: 140px;
+}
+#slide3{
+  margin-top: 140px;
+  
+}
